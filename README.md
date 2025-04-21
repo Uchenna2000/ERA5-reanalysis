@@ -26,3 +26,5 @@ Projection: WGS 84 (EPSG:4326)
 Region: Africa
 
 The data unit is Kelvin. You may want to convert it to Celsius: C = K - 273.15
+
+![Temperature map](mean_temp.png)
